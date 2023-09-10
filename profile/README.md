@@ -1,2 +1,2 @@
 # Hello from Sveil org!
-Just trying to enrich svelte ecosystem. 
+Just trying to enrich svelte ecosystem
